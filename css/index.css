@@ -1,0 +1,91 @@
+.navbar{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.elogo{
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: #eb2929;
+    font-family: poppins;
+    font-size: 26px;
+    padding-left: 15%;
+}
+.h{
+color: #032a7e;
+margin-left: 2px;
+
+}
+.heading
+{
+ height: 43px;
+ font-family: Poppins;
+ font-size: 30px;
+ color: #05266d;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}
+
+  .subheading{
+    height: 25px;
+   font-family: Poppins;
+   font-size: 30px;
+   color: #032a7e;
+   margin-top: 10px;
+   margin-bottom: 70px;
+   }
+
+.ch{
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    color: #05266d;
+    }
+
+.card{
+    border-radius: 0%;
+    box-shadow: 0px 3px 5px 0px rgb(182, 159, 159);
+    margin-bottom: 10px;
+    border-color: gainsboro;
+}
+
+.card-body{
+    padding: 5%;
+}
+
+.card-text{
+    color: rgb(119, 122, 126);
+    font-size: 20px;
+}
+
+img{
+    padding: 5%;
+    border-radius: 4%;
+    height: 300px;
+    width: 300px;
+}
+
+.res-info{
+    padding: 2%;
+}
+
+.pagination{
+    justify-content: center;
+}
+.pg{
+    margin: 1%;
+    outline: gray;
+    border: gray;
+   
+}
+
+.fc{
+    margin-top: 115px;
+    margin-bottom: 96px;
+    margin-left: 113px;
+    margin-right: 993px;
+}
