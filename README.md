@@ -1,2 +1,2 @@
 # Eator-App
-made with the hel of BootStrap 🙃🎊
+made with the help of BootStrap 🙃🎊
